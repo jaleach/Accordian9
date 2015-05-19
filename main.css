@@ -1,0 +1,46 @@
+
+
+
+.accord{
+
+  margin-left: 405px;
+  margin-right: auto;
+}
+
+section{
+  border: 1px solid rgba(0,218,236,1);
+  height: 50px;
+  overflow: hidden;
+  transition: height 2s ease;
+  width: 317px;
+  background-color: gray;}
+.boxy{
+  height: 200px;
+      transition: height 2s ease;
+
+}
+
+
+section h2{
+  color: b;
+  margin: 0;
+  padding: 10px;
+  background-color:rgba(0,218,236,1);
+/*  font-family: sans-serif;
+*/  font: cursive;
+
+
+  font-family: 'Lobster', cursive;
+}
+
+h2:hover{
+  background-color: green;
+}
+h2:hover, h2:focus, h2:active {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+.accord img{
+  margin-left: -30px;
+}
+
+
